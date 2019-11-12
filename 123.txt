@@ -1,7 +1,11 @@
 test branches strategy
 dfgdfhdfhdfhdhf
 
+<<<<<<< HEAD
 sdfs4fsdfsdf
+=======
+sdfs1fsdfsdf
+>>>>>>> mergeBranch
 sdfsd
 f
 sdf
